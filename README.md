@@ -19,9 +19,9 @@
         $NDVI=\frac{\rho_{NIR}-\rho_{red}}{\rho_{NIR}+\rho_{red}}$
         - NDVI values range from -1 to 1.
         - The bigger is NDVI, the more green is your city.
-    - (5) get_bands_plot(): plot the city or area of interest with NDVI color as a map picture which can be saved to your disk. ![markdown picture](./ndvi_portland.png)  
-    -  ![markdown picture](./ndvi_shanghai.png) 
-    -  ![markdown picture](./ndvi_beijing.png)  
+    - (5) get_bands_plot(): plot the city or area of interest with NDVI color as a map picture which can be saved to your disk. ![markdown picture](./ndvi_portland.png)  <br>
+    ![markdown picture](./ndvi_shanghai.png) <br>
+    ![markdown picture](./ndvi_beijing.png)  <br>
     - (6) plot_Area_of_interest(): it can generate html files and see your city' shape with rows and paths in LANDSAT on a digital map. <br><br>
 
 - Other functions:
