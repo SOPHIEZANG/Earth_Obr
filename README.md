@@ -50,7 +50,7 @@ drought assessment over the central Great Plains of the United States
 5.https://landsat.gsfc.nasa.gov/about/the-worldwide-reference-system/#:~:text=The%20Worldwide%20Reference%20System%20(WRS,by%20PATH%20and%20ROW%20numbers)
 
 ### Terms Attention
-（1) Landsat<br>
+（1）Landsat<br>
 （2）Remote Sensing<br>
 （3）Earth Observation<br>
 （4）GIS<br>
