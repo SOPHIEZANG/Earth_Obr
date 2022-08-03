@@ -51,12 +51,14 @@ drought assessment over the central Great Plains of the United States
 5.https://landsat.gsfc.nasa.gov/about/the-worldwide-reference-system/#:~:text=The%20Worldwide%20Reference%20System%20(WRS,by%20PATH%20and%20ROW%20numbers)
 
 ### Terms Attention
-（1）Landsat<br>
-（2）Remote Sensing<br>
-（3）Earth Observation<br>
-（4）GIS<br>
-（5）GeoPandas<br>
-（6）Shape<br>
-（7）NDVI<br>
-（8）folium<br>
+（1) Landsat:The Landsat Program is a series of Earth-observing satellite missions jointly managed by NASA and the U.S. Geological Survey. Landsat satellites have the optimal ground resolution and spectral bands to efficiently track land use and to document land change due to climate change, urbanization, drought, wildfire, biomass changes (carbon assessments), and a host of other natural and human-caused changes. The Landsat Program’s continuous archive (1972-present) provides essential land change data and trending information not otherwise available. Landsat represents the world’s longest continuously acquired collection of space-based moderate-resolution land remote sensing data.<br>
+（2）Remote Sensing:Remote sensing (also called earth observation or teledetection) meets the strong need nowadays for information about the changing world, for
+observing earth surface features and monitoring the processes concerning them.<br>
+（3）Earth Observation is also called Remote Sensing(RS).<br>
+（4）GIS:A spatial system that creates, manages, analyzes, and maps all types of data.GIS connects data to a map, integrating location data (where things are) with all types of descriptive information (what things are like there). This provides a foundation for mapping and analysis that is used in science and almost every industry. GIS helps users understand patterns, relationships, and geographic context. The benefits include improved communication and efficiency as well as better management and decision making.<br>
+（5）GeoPandas:GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. Geometric operations are performed by shapely.<br>
+（6）Shape:Shape is an important aspect of spatial attributes of land use segments in remotely sensed imagery.<br>
+（7）NDVI：the full name is called Normalized Difference Vegetation Index.quantifies vegetation by measuring the difference between near-infrared (which vegetation strongly reflects) and red light (which vegetation absorbs).NDVI always ranges from -1 to +1. But there isn’t a distinct boundary for each type of land cover.
+For example, when you have negative values, it’s highly likely that it’s water. On the other hand, if you have an NDVI value close to +1, there’s a high possibility that it’s dense green leaves.But when NDVI is close to zero, there are likely no green leaves and it could even be an urbanized area.NDVI is the most common index that analysts use in remote sensing. <br>
+（8）folium:The Folium library in Python helps us analyze the location and geospatial data with ease and lets us create interactive maps.Folium is a Python library used for visualizing geospatial data. It is easy to use and yet a powerful library. Folium is a Python wrapper for Leaflet. js which is a leading open-source JavaScript library for plotting interactive maps.<br>
  
