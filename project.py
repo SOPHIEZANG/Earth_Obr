@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+__author__ = "Sophie Hanfen ZANG"
+
+"""
+@author: Sophie Hanfen ZANG
+"""
+
 import rasterio 
 from rasterio.merge import merge
 from rasterio.warp import transform_geom
